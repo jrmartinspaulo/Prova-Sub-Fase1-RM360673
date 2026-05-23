@@ -1,0 +1,44 @@
+ANÁLISE DESCRITIVA - AMAZON BEST SELLERS
+
+Fonte da análise: dados consumidos pela REST API desenvolvida no projeto.
+
+Total de livros analisados: 100
+Livros com preço informado: 100
+Livros com avaliação informada: 97
+
+Preço médio: US$ 13.05
+Menor preço: US$ 3.07
+Maior preço: US$ 34.99
+
+Avaliação média: 4.67
+Menor avaliação: 3.40
+Maior avaliação: 5.00
+
+TOP 5 BEST SELLERS
+
+ rank                                                               title       author             rating  price
+    1    The Deal: Now an Original Series on Amazon Prime (Off-Campus, 1) Elle Kennedy 4.4 out of 5 stars  $9.04
+    2 The Mistake: Now an Original Series on Amazon Prime (Off-Campus, 2) Elle Kennedy 4.2 out of 5 stars  $9.34
+    3                                             Theo of Golden: A Novel   Allen Levi 4.7 out of 5 stars $14.98
+    4                                           Oh, the Places You'll Go!    Dr. Seuss 4.9 out of 5 stars  $8.64
+    5   The Score: Now an Original Series on Amazon Prime (Off-Campus, 3) Elle Kennedy 4.4 out of 5 stars $16.65
+
+AUTORES COM MAIS LIVROS
+
+                  author  total_books
+Summer Bridge Activities           10
+           Matt Dinniman            9
+            Elle Kennedy            5
+               Dr. Seuss            2
+              Eric Carle            2
+          D.J. Steinberg            2
+         Bill Martin Jr.            2
+         Gregory E. Lang            2
+                Coco Wyo            2
+          Rebecca Yarros            2
+
+CONCLUSÃO
+
+A análise foi realizada consumindo os endpoints da API FastAPI criada no projeto.
+Os resultados indicam predominância de livros com avaliações elevadas, além da
+presença recorrente de autores, séries e materiais educacionais entre os best sellers.
