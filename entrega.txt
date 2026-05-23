@@ -1,0 +1,12 @@
+PROVA SUBSTITUTIVA – MACHINE LEARNING ENGINEERING – FASE 1
+Aluno: Paulo Sérgio Martins Junior
+RM: 360673
+
+LINK API (Render):
+https://prova-sub-fase1-rm360673.onrender.com
+
+DOCUMENTAÇÃO SWAGGER:
+https://prova-sub-fase1-rm360673.onrender.com/docs
+
+LINK GITHUB:
+https://github.com/jrmartinspaulo/Prova-Sub-Fase1-RM360673
