@@ -393,7 +393,7 @@ tests/test_api.py
 
 Projeto desenvolvido para a disciplina:
 
-**Machine Learning Engineering – Pós-Graduação ON**
+**PROVA SUBSTITUTIVA FASE 1 MACHINE LEARNING ENGINEERING**
 
 Aluno: **Paulo Sérgio Martins Junior**
 
